@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\İngilizce Kelime Ezber Programı\İngilizce Kelime Ezber Programı\bin\x86\Debug\İngilizce Kelime Ezber Programı.exe.config
+C:\Users\Emre\Desktop\İngilizce Kelime Ezber Programı\İngilizce Kelime Ezber Programı\bin\x86\Debug\İngilizce Kelime Ezber Programı.exe
+C:\Users\Emre\Desktop\İngilizce Kelime Ezber Programı\İngilizce Kelime Ezber Programı\bin\x86\Debug\İngilizce Kelime Ezber Programı.pdb
+C:\Users\Emre\Desktop\İngilizce Kelime Ezber Programı\İngilizce Kelime Ezber Programı\obj\x86\Debug\İngilizce_Kelime_Ezber_Programı.Form1.resources
+C:\Users\Emre\Desktop\İngilizce Kelime Ezber Programı\İngilizce Kelime Ezber Programı\obj\x86\Debug\İngilizce_Kelime_Ezber_Programı.iletisim.resources
+C:\Users\Emre\Desktop\İngilizce Kelime Ezber Programı\İngilizce Kelime Ezber Programı\obj\x86\Debug\İngilizce_Kelime_Ezber_Programı.istatistik.resources
+C:\Users\Emre\Desktop\İngilizce Kelime Ezber Programı\İngilizce Kelime Ezber Programı\obj\x86\Debug\İngilizce_Kelime_Ezber_Programı.Properties.Resources.resources
+C:\Users\Emre\Desktop\İngilizce Kelime Ezber Programı\İngilizce Kelime Ezber Programı\obj\x86\Debug\İngilizce Kelime Ezber Programı.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\İngilizce Kelime Ezber Programı\İngilizce Kelime Ezber Programı\obj\x86\Debug\İngilizce Kelime Ezber Programı.exe
+C:\Users\Emre\Desktop\İngilizce Kelime Ezber Programı\İngilizce Kelime Ezber Programı\obj\x86\Debug\İngilizce Kelime Ezber Programı.pdb
