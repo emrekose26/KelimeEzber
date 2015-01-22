@@ -1,4 +1,4 @@
-# KelimeEzber
+# Kelime Ezber
 - Türkçe - İngilizce , İngilizce - Türkçe seçenekleri
 - Yeni kelime ekleme
 - Var olan kelimeleri ve anlamlarını görüntüleme
