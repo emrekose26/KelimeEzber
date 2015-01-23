@@ -31,3 +31,14 @@ C:\Users\Emre\İngilizce Kelime Ezber Programı\İngilizce Kelime Ezber Program�
 C:\Users\Emre\İngilizce Kelime Ezber Programı\İngilizce Kelime Ezber Programı\obj\Debug\İngilizce_Kelime_Ezber_Programı.istatistik.resources
 C:\Users\Emre\İngilizce Kelime Ezber Programı\İngilizce Kelime Ezber Programı\obj\Debug\İngilizce_Kelime_Ezber_Programı.Properties.Resources.resources
 C:\Users\Emre\İngilizce Kelime Ezber Programı\İngilizce Kelime Ezber Programı\obj\Debug\İngilizce Kelime Ezber Programı.csproj.GenerateResource.Cache
+C:\Users\Emre\Documents\GitHub\İngilizce Kelime Ezber Programı\KelimeEzber\İngilizce Kelime Ezber Programı\bin\Debug\İngilizce Kelime Ezber Programı.exe.config
+C:\Users\Emre\Documents\GitHub\İngilizce Kelime Ezber Programı\KelimeEzber\İngilizce Kelime Ezber Programı\obj\Debug\İngilizce Kelime Ezber Programı.exe
+C:\Users\Emre\Documents\GitHub\İngilizce Kelime Ezber Programı\KelimeEzber\İngilizce Kelime Ezber Programı\obj\Debug\İngilizce Kelime Ezber Programı.pdb
+C:\Users\Emre\Documents\GitHub\İngilizce Kelime Ezber Programı\KelimeEzber\İngilizce Kelime Ezber Programı\bin\Debug\İngilizce Kelime Ezber Programı.exe
+C:\Users\Emre\Documents\GitHub\İngilizce Kelime Ezber Programı\KelimeEzber\İngilizce Kelime Ezber Programı\bin\Debug\İngilizce Kelime Ezber Programı.pdb
+C:\Users\Emre\Documents\GitHub\İngilizce Kelime Ezber Programı\KelimeEzber\İngilizce Kelime Ezber Programı\obj\Debug\İngilizce Kelime Ezber Programı.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Documents\GitHub\İngilizce Kelime Ezber Programı\KelimeEzber\İngilizce Kelime Ezber Programı\obj\Debug\İngilizce_Kelime_Ezber_Programı.Form1.resources
+C:\Users\Emre\Documents\GitHub\İngilizce Kelime Ezber Programı\KelimeEzber\İngilizce Kelime Ezber Programı\obj\Debug\İngilizce_Kelime_Ezber_Programı.iletisim.resources
+C:\Users\Emre\Documents\GitHub\İngilizce Kelime Ezber Programı\KelimeEzber\İngilizce Kelime Ezber Programı\obj\Debug\İngilizce_Kelime_Ezber_Programı.istatistik.resources
+C:\Users\Emre\Documents\GitHub\İngilizce Kelime Ezber Programı\KelimeEzber\İngilizce Kelime Ezber Programı\obj\Debug\İngilizce_Kelime_Ezber_Programı.Properties.Resources.resources
+C:\Users\Emre\Documents\GitHub\İngilizce Kelime Ezber Programı\KelimeEzber\İngilizce Kelime Ezber Programı\obj\Debug\İngilizce Kelime Ezber Programı.csproj.GenerateResource.Cache

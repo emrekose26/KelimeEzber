@@ -187,6 +187,7 @@ namespace İngilizce_Kelime_Ezber_Programı
         {
             dataGridView1.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
             DataGridViewFill();
+            lblKelimeSayisi.Text = (dataGridView1.Rows.Count-1).ToString();
             dataGridView1.Columns[0].Width = 129;
             dataGridView1.Columns[1].Width = 128;
             btnKontrol.Enabled = false;
@@ -225,6 +226,7 @@ namespace İngilizce_Kelime_Ezber_Programı
                 {
                     baglanti.Close();
                     DataGridViewFill();
+                    lblKelimeSayisi.Text = (dataGridView1.Rows.Count - 1).ToString();
                 }
             }
         }

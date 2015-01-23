@@ -58,6 +58,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.lblKelimeSayisi = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -216,6 +218,8 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.lblKelimeSayisi);
+            this.groupBox2.Controls.Add(this.label4);
             this.groupBox2.Controls.Add(this.dataGridView1);
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.groupBox2.Location = new System.Drawing.Point(323, 103);
@@ -231,7 +235,7 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(12, 22);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(300, 479);
+            this.dataGridView1.Size = new System.Drawing.Size(300, 444);
             this.dataGridView1.TabIndex = 0;
             // 
             // groupBox3
@@ -371,6 +375,24 @@
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(96, 481);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(103, 17);
+            this.label4.TabIndex = 1;
+            this.label4.Text = "Kelime Sayısı : ";
+            // 
+            // lblKelimeSayisi
+            // 
+            this.lblKelimeSayisi.AutoSize = true;
+            this.lblKelimeSayisi.Location = new System.Drawing.Point(205, 481);
+            this.lblKelimeSayisi.Name = "lblKelimeSayisi";
+            this.lblKelimeSayisi.Size = new System.Drawing.Size(13, 17);
+            this.lblKelimeSayisi.TabIndex = 2;
+            this.lblKelimeSayisi.Text = "-";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -396,6 +418,7 @@
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
@@ -436,6 +459,8 @@
         private System.Windows.Forms.ToolStripMenuItem istatistikleriGörüntüleToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem kelimeÇalışToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem iletişimToolStripMenuItem;
+        private System.Windows.Forms.Label lblKelimeSayisi;
+        private System.Windows.Forms.Label label4;
     }
 }
 
